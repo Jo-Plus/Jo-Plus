@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="output/Me.jpg"  />
+<img align="right" height="150" src="output/Me.jpg" style="border-radius: 50%; border: 4px solid white;" alt="My Photo" />
 
 ###
 
