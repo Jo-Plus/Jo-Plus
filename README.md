@@ -9,14 +9,14 @@
 
 ###
 
-<img align="right" height="150" src="output/Me.jpg" style="border-radius: 50%; border: 4px solid white;" alt="My Photo" />
+<img align="right" height="150" src="output/Me.png" alt="My Photo" />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/OOP.svg" height="30" alt="OOP logo"  />
+  <img src="output/OOP.png" height="30" alt="OOP logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
