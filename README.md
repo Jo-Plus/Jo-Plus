@@ -48,7 +48,7 @@
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
   <img width="18" />
-  <img src="output/OOP.png" height="30" alt="OOP logo"  />
+  <img src="output/OOP.png" height="55" alt="OOP logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="18" />
@@ -120,6 +120,6 @@
 
 <br clear="both">
 
-<img src="output/snake.svg" alt="Snake animation" />
+<img src="output/pacman.svg" alt="Snake animation" />
 
 ###
