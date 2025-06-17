@@ -83,6 +83,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
 <!--     <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -121,5 +123,11 @@
 <br clear="both">
 
 <img src="./pacman.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img src="./download.svg" alt="Snake animation" />
 
 ###
