@@ -2,7 +2,10 @@
 
 ###
 
-<img align="center margin-auto" height="350" src="output/Me.png" alt="My Photo" />
+<p align="center">
+  <img src="output/Me.png" alt="My Photo" height="350" />
+</p>
+
 
 ###
 
