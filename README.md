@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yousef Saeed and I'm a Frontend Developer, from Egypt</h2>
+<h2 align="center">Hi 👋! My name is Yousef Saeed and I'm a Frontend Developer, from Egypt</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="center" height="350" src="output/Me.png" alt="My Photo" />
+<img align="right" height="350" src="output/Me.png" alt="My Photo" />
 
 ###
 
