@@ -99,7 +99,7 @@
   <a href="https://wa.me/201010283262" target="_blank">
   <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a> -->
-    <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
+  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:saeedyoussef219@gmail.com" target="_blank">
@@ -120,6 +120,6 @@
 
 <br clear="both">
 
-<img src="output/pacman.svg" alt="Snake animation" />
+<img src="./pacman.svg" alt="Snake animation" />
 
 ###
