@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="350" src="output/Me.png" alt="My Photo" />
+<img align="center" height="350" src="output/Me.png" alt="My Photo" />
 
 ###
 
