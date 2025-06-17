@@ -10,7 +10,7 @@
 ###
 
 <p align="center">
-  <img src="output/Me.png" alt="My Photo" height="350" />
+  <img src="output/Me.png" alt="My Photo" height="300" />
 </p>
 
 ###
@@ -36,7 +36,6 @@
 </div>
 
 <br><br>
-
 
 ###
 
