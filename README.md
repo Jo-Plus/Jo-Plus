@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="300" src="output/Me.png" alt="My Photo" />
+<img align="center" height="350" src="output/Me.png" alt="My Photo" />
 
 ###
 
-<div align="left">
+<div align="center">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="output/OOP.png" height="30" alt="OOP logo"  />
