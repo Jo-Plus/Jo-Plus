@@ -9,7 +9,7 @@
   <img src="output/Me.png" alt="My Photo" height="350" />
 </p>
 
-## 🌐 Connect with me:
+<h2 align="left">🌐 Connect with me:</h2>
 
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-## 🛠️ Languages & Tools:
+<h2 align="left">🛠️ Languages & Tools:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo" />
