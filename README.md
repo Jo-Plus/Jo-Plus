@@ -8,15 +8,17 @@
 
 ###
 
+<p align="center" style="margin-bottom: 0; style="margin-top: 0;">
+  <img src="output/Me.png" alt="My Photo" height="350" />
+</p>
+
+###
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=500&lines=Hi+I'm+Yousef+Saeed;Frontend+Developer+%F0%9F%92%BB;React+%2F+Next.js+Lover;Always+learning+new+techs+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ###
-
-<p align="center" style="margin-bottom: 0; style="margin-top: 0;">
-  <img src="output/Me.png" alt="My Photo" height="350" />
-</p>
 
 <h2 align="left">🌐 Connect with me:</h2>
 
