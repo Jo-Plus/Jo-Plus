@@ -8,6 +8,12 @@
 
 ###
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+a+Frontend+Developer;React+%2F+Next.js+Lover;Always+Learning+New+Techs+❤️" alt="Typing SVG" />
+</h1>
+
+###
+
 <p align="center" style="margin-bottom: 0; style="margin-top: 0;">
   <img src="output/Me.png" alt="My Photo" height="350" />
 </p>
