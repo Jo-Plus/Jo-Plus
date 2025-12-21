@@ -17,7 +17,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=650&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+MERN+Developer+|+React+%26+Next.js+|+Backend:+Node.js+(Express+%26+Nest.js)+|+DB:+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+|+React+%26+Next.js+|+Node.js+(Express+%26+Nest.js)+|+MongoDB+%26+PostgreSQL;Always+learning+new+techs+🚀" 
     alt="Typing SVG" 
   />
 </p>
@@ -98,7 +98,7 @@
 ### 
 <h2 align="left">🛠️Tools:</h2>
 
-<div align="center">
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" />
