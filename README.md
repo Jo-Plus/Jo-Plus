@@ -99,17 +99,17 @@
 <h2 align="left">🛠️Tools:</h2>
 
 <div align="center" style="margin-bottom: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
   <img width="13" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="50" alt="MongoDB Compass" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB" />
   <img width="13" />
-  <img src="https://img.icons8.com/color/48/000000/pgadmin.png" height="50" alt="pgAdmin" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" alt="PostgreSQL/pgAdmin" />
 </div>
 
 <div align="center" style="margin-top: 40px;">
