@@ -16,7 +16,10 @@
 ### 
 
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=500&lines=Hi+I'm+Yousef+Saeed;Frontend+Developer+💻;React+%2F+Next.js+Lover;Always+learning+new+techs+🚀](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=500&lines=Hi+I%27m+Yousef+Saeed;Frontend+Developer+%F0%9F%92%BB;React+%2F+Next.js+Lover;Always+learning+new+techs+%F0%9F%9A%80)" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousef+Saeed;Full-Stack+MERN+Developer;React+%2F+Next.js+Enthusiast;NestJS+%26+PostgreSQL;Always+learning+new+techs+🚀" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ### 
@@ -108,8 +111,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-</div>
-### 
+</div> 
 
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
