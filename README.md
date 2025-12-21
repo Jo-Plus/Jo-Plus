@@ -106,7 +106,7 @@
   <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB Compass" />
   <img width="13" />
-  <img src="https://www.vectorlogo.zone/logos/pgadmin/pgadmin-icon.svg" height="50" alt="pgAdmin" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/PgAdmin4_logo.png" height="50" alt="pgAdmin" />
 </div>
 
 ### 
