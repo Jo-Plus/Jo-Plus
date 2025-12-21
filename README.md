@@ -109,7 +109,7 @@
   <img width="13" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="50" alt="MongoDB Compass" />
   <img width="13" />
-  <img src="https://www.pgadmin.org/static/img/pgadmin4.svg" height="50" alt="pgAdmin" />
+  <img src="https://img.icons8.com/color/48/000000/pgadmin.png" height="50" alt="pgAdmin" />
 </div>
 
 <div align="center" style="margin-top: 40px;">
