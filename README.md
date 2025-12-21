@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Yousef Saeed and I'm a Frontend Developer, from Cairo</h2>
+<h2 align="center">Hi 👋! My name is Yousef Saeed</h2>
+<h3 align="center">Full-Stack (MERN) Developer | React & Next.js | Backend: Node.js (Express & Nest.js) | DB: MongoDB & PostgreSQL</h3>
 
 ### 
 
@@ -53,7 +54,7 @@
 
 
 ### 
-<h2 align="left">Frontend Skills:</h2>
+<h2 align="left">🖥️Frontend Skills:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
@@ -82,7 +83,7 @@
 </div>
 
 ### 
-<h2 align="left">Backend Skills:</h2>
+<h2 align="left">🖥️Backend Skills:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
@@ -97,7 +98,7 @@
 </div>
 
 ### 
-<h2 align="left">Tools:</h2>
+<h2 align="left">🛠️Tools:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
