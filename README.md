@@ -1,104 +1,359 @@
+**<h2 align="center">Hi 👋! My name is Yousef Saeed and I'm a Frontend Developer, from Cairo</h2>**
+
+<h3 align="center">Full-Stack (MERN) Developer | React & Next.js | Backend: Node.js (Express & Nest.js) | DB: MongoDB & PostgreSQL</h3>
+
+### 
+
+**<div align="center">
+<img src="./avater.svg" height="220" alt="streak graph"  />
+</div>**
+
+### 
+
+**<p align="center" style="margin-bottom: 0; style="margin-top: 0;">
+<img src="output/Me.png" alt="My Photo" height="350" />
+</p>**
+
+### 
+
+**<p align="center">
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=500&lines=Hi+I'm+Yousef+Saeed;Frontend+Developer+💻;React+%2F+Next.js+Lover;Always+learning+new+techs+🚀](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=500&lines=Hi+I%27m+Yousef+Saeed;Frontend+Developer+%F0%9F%92%BB;React+%2F+Next.js+Lover;Always+learning+new+techs+%F0%9F%9A%80)" alt="Typing SVG" />
+</p>**
+
+### 
+
+**<h2 align="left">🌐 Connect with me:</h2>**
+
+**<div align="center" style="margin-bottom: 20px;">
+<a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+<a [href="mailto:saeedyoussef219@gmail.com](mailto:href=%22mailto:saeedyoussef219@gmail.com)" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+<a href="http://facebook.com/youssef.aboyehia.1" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+</a>
+<a href="https://t.me/yousefsaeed" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+</a>
+<a href="https://wa.me/201010283262" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+</a>
+</div>**
+
+**<h2 align="left">🛠️ Languages & Tools:</h2>**
+
+**<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+<img width="13" />
+<img src="output/OOP.png" height="55" alt="OOP logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+<img width="13" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" alt="tailwind logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="50" alt="Framer Motion logo" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+</div>**
+
+### 
+
+**<div align="center">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>**
+
+### 
+
+**<br clear="both" />**
+
+**<img src="./pacman.svg" alt="Snake animation" />**
+
+**<br clear="both" />**
+
+**<img src="./download.svg" alt="Snake animation" />**
+
+<h2 align="center">Hi 👋! My name is Yousef Saeed</h2>
+<h3 align="center">Full-Stack (MERN) Developer | React & Next.js | Backend: Node.js (Express & Nest.js) | DB: MongoDB & PostgreSQL</h3>
+
+### 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&fontAlign=50&fontAlignY=35&desc=I'm%20Yousef%20Saeed&descAlign=50&descAlignY=60&descSize=30&animation=fadeIn" alt="Header" />
+<img src="./avater.svg" height="220" alt="streak graph"  />
 </div>
 
-<h3 align="center">
-    🚀 Full-Stack Developer | MERN Stack | Nest.js & PostgreSQL
-</h3>
+### 
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2094F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Expert+in+React+%26+Next.js;Backend+Ninja+(Nest.js+%2B+Postgres);Always+Learning+New+Techs+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+<p align="center" style="margin-bottom: 0; style="margin-top: 0;">
+<img src="output/Me.png" alt="My Photo" height="350" />
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:saeedyoussef219@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://wa.me/201010283262">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
-  </a>
-  <a href="https://t.me/yousefsaeed">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-  </a>
-</div>
-
-<hr/>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="40%" style="border: none;">
-      <img src="output/Me.png" alt="Yousef Saeed" width="300" style="border-radius: 50%;" />
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=yousef-saeed&label=Profile%20Views&color=blue&style=flat" alt="yousef-saeed" />
-    </td>
-    <td width="60%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=yousef-saeed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" width="100%" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-saeed&theme=tokyonight&hide_border=true" alt="streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center">💻 Technologies & Tools</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Frontend</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-        <br/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <h3>Backend</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40"/>
-        <br/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <h3>Tools & Concepts</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-        <br/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" alt="C++"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-  <br/>
-  <img src="./pacman.svg" alt="github-snake" width="100%" />
-</div>
+### 
 
 <p align="center">
-  <i>Let's build something amazing together!</i>
+<img
+src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousef+Saeed;Full-Stack+Developer+|+React+%26+Next.js+|+Node.js+(Express+%26+Nest.js)+|+MongoDB+%26+PostgreSQL;Always+learning+new+techs+🚀](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80)"
+alt="Typing SVG"
+/>
 </p>
+
+### 
+
+<h2 align="left">🌐 Connect with me:</h2>
+
+<div align="center" style="margin-bottom: 20px;">
+
+<a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+
+<a [href="mailto:saeedyoussef219@gmail.com](mailto:href=%22mailto:saeedyoussef219@gmail.com)">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+
+<a href="http://facebook.com/youssef.aboyehia.1">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+</a>
+
+<a href="https://t.me/yousefsaeed">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+</a>
+
+<a href="https://wa.me/201010283262">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+</a>
+
+</div>
+
+### 
+
+<h2 align="left">🖥️Frontend Skills:</h2>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+<img width="13" />
+<img src="output/OOP.png" height="55" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+<img width="13" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
+</div>
+
+### 
+
+<h2 align="left">🖥️Backend Skills:</h2>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+</div>
+
+### 
+
+<h2 align="left">🛠️Tools:</h2>
+
+<div align="center" style="margin-bottom: 40px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+<img width="13" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB" />
+<img width="13" />
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" alt="PostgreSQL/pgAdmin" />
+</div>
+
+<div align="center" style="margin-top: 40px;">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+### 
+
+<br clear="both" />
+
+<img src="./pacman.svg" alt="Snake animation" />
+
+<br clear="both" />
+
+<img src="./download.svg" alt="Snake animation" />
+
+<h2 align="center">Hi 👋! My name is Yousef Saeed</h2>
+<h3 align="center">Full-Stack (MERN) Developer | React & Next.js | Backend: Node.js (Express & Nest.js) | DB: MongoDB & PostgreSQL</h3>
+
+### 
+
+<div align="center">
+<img src="./avater.svg" height="220" alt="streak graph"  />
+</div>
+
+### 
+
+<p align="center" style="margin-bottom: 0; style="margin-top: 0;">
+<img src="output/Me.png" alt="My Photo" height="350" />
+</p>
+
+### 
+
+<p align="center">
+<img
+src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousef+Saeed;Full-Stack+Developer+|+React+%26+Next.js+|+Node.js+(Express+%26+Nest.js)+|+MongoDB+%26+PostgreSQL;Always+learning+new+techs+🚀](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80)"
+alt="Typing SVG"
+/>
+</p>
+
+### 
+
+<h2 align="left">🌐 Connect with me:</h2>
+
+<div align="center" style="margin-bottom: 20px;">
+
+<a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+
+<a [href="mailto:saeedyoussef219@gmail.com](mailto:href=%22mailto:saeedyoussef219@gmail.com)">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+
+<a href="http://facebook.com/youssef.aboyehia.1">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+</a>
+
+<a href="https://t.me/yousefsaeed">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+</a>
+
+<a href="https://wa.me/201010283262">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+</a>
+
+</div>
+
+### 
+
+<h2 align="left">🖥️Frontend Skills:</h2>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+<img width="13" />
+<img src="output/OOP.png" height="55" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+<img width="13" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
+</div>
+
+### 
+
+<h2 align="left">🖥️Backend Skills:</h2>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+</div>
+
+### 
+
+<h2 align="left">🛠️Tools:</h2>
+
+<div align="center" style="margin-bottom: 40px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+<img width="13" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+<img width="13" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB" />
+<img width="13" />
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" alt="PostgreSQL/pgAdmin" />
+</div>
+
+<div align="center" style="margin-top: 40px;">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+### 
+
+<br clear="both" />
+
+<img src="./pacman.svg" alt="Snake animation" />
+
+<br clear="both" />
+
+<img src="./download.svg" alt="Snake animation" />
