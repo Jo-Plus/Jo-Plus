@@ -16,7 +16,10 @@
 ### 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+MERN+Developer;React+%2F+Next.js+Enthusiast;NestJS+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=650&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+MERN+Developer+|+React+%26+Next.js+|+Backend:+Node.js+(Express+%26+Nest.js)+|+DB:+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ### 
@@ -105,8 +108,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
 </div> 
 
-<div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center" style="margin-top: 40px;">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ### 
