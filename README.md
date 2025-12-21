@@ -81,6 +81,7 @@
 </div>
 
 ### 
+<div align="center">
 <h2 align="left">Backend Skills:</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" />
 <img width="13" />
@@ -93,6 +94,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
 <img width="13" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman" />
+</div>
+
 ### 
 
 <div align="center">
