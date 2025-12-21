@@ -106,7 +106,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-</div> 
+  <img width="13" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="50" alt="MongoDB Compass" />
+  <img width="13" />
+  <img src="https://www.pgadmin.org/static/img/pgadmin4.svg" height="50" alt="pgAdmin" />
+</div>
 
 <div align="center" style="margin-top: 40px;">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
