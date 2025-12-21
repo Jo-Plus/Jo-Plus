@@ -21,7 +21,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+|+React+%26+Next.js+|+Node.js+(Express+%26+Nest.js)+|+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80"
     alt="Typing SVG"
   />
-</p>>
+</p>
 
 ### 
 
@@ -106,7 +106,7 @@
   <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB Compass" />
   <img width="13" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/PgAdmin4_logo.png" height="50" alt="pgAdmin" />
+  <img src="https://www.vectorlogo.zone/logos/pgadmin/pgadmin-icon.svg" height="50" alt="pgAdmin" />
 </div>
 
 ### 
