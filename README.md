@@ -95,15 +95,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</div>
-
-
-
 ### 
 
 <h2 align="left">🛠️ Tools:</h2>
