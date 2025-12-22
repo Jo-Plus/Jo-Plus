@@ -93,6 +93,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" />
+  <img width="13" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-plain.svg" height="50" />
 </div>
 
 ### 
