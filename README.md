@@ -93,11 +93,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
-  <img width="13" />
-  <img src="https://img.icons8.com/color/48/json-web-token.png" height="50" title="JWT" />
-  <img width="13" />
-  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_icon_blue.svg" height="50" title="Cloudinary" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</div>
+
 
 
 ### 
