@@ -80,50 +80,23 @@
 <h2 align="left">🖥️ Backend Skills:</h2>
 
 <div align="center">
-
-  <!-- Backend Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img width="12"/>
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
-  <img width="12"/>
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
-
-  <br/><br/>
-
-  <!-- Databases -->
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
-  <img width="12"/>
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
-
-  <br/><br/>
-
-  <!-- Auth & Security -->
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
+  <img width="13" />
   <img src="https://img.icons8.com/color/48/json-web-token.png" height="50" title="JWT" />
-  <img width="12"/>
-  <img src="https://img.icons8.com/fluency/48/lock.png" height="50" title="Authentication & Authorization" />
-
-  <br/><br/>
-
-  <!-- Cloud & Storage -->
+  <img width="13" />
   <img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_icon_blue.svg" height="50" title="Cloudinary" />
-
-  <br/><br/>
-
-  <!-- Email -->
-  <img src="https://img.icons8.com/color/48/email.png" height="50" title="Nodemailer" />
-
-  <br/><br/>
-
-  <!-- API & Docs -->
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" height="50" title="Swagger API Docs" />
-
-  <br/><br/>
-
-  <!-- Realtime & API -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" title="Socket.IO" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" title="GraphQL" />
-
 </div>
 
 
