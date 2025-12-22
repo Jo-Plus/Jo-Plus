@@ -82,7 +82,11 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  height="50"
+  style="filter: invert(1) brightness(2);"
+/>
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
   <img width="13" />
@@ -96,7 +100,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" />
   <img width="13" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stripe.svg" height="50" />
 </div>
 
 ### 
