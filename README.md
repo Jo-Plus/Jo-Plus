@@ -82,12 +82,10 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
   <img width="13" />
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-  height="50"
-  style="filter: invert(1) brightness(2);"
-/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="filter: brightness(0) invert(1);" />
   <img width="13" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
@@ -98,11 +96,12 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ejs.svg" height="50" />
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ejs.svg" height="50" style="filter: brightness(0) invert(1);" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" style="filter: brightness(0) invert(1);" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stripe.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stripe.svg" height="50" style="filter: brightness(0) invert(1);" />
 </div>
 
 ### 
