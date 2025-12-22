@@ -92,13 +92,11 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" height="50" />
-  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nosql.svg" height="50" />
-  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" />
   <img width="13" />
@@ -112,6 +110,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
 </div>
+
 
 
 
