@@ -98,6 +98,8 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ejs.svg" height="50" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stripe.svg" height="50" />
