@@ -5,16 +5,14 @@
 ### 
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefsaeed&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaeed&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=youssefsaeed&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaeed&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </div>
 
 
