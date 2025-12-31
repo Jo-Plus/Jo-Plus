@@ -63,33 +63,12 @@
 
 <h2 align="left">🖥️ Backend Skills:</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ejs.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stripe.svg" height="50" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux,ejs,swagger,stripe,socketio&perline=10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
+</p>
 
 
 
