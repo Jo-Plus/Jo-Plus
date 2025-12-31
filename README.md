@@ -67,7 +67,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux,ejs,swagger,stripe,socketio&perline=10" />
   <br><br>
   <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
 </p>
 
 
