@@ -50,7 +50,7 @@
 <h2 align="left">🎨 Frontend Skills:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,tailwind,react,redux,mui,nextjs,vite,sass&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,tailwind,react,redux,mui,nextjs,vite,sass&perline=10" />
   <br><br>
   <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
   <span>&nbsp;</span>
