@@ -18,10 +18,10 @@
 ### 
 
 <p align="center">
-<img
-src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousef+Saeed;Full-Stack+Developer+|+React+%26+Next.js+|+Node.js+(Express+%26+Nest.js)+|+MongoDB+%26+PostgreSQL;Always+learning+new+techs+🚀](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80)"
-alt="Typing SVG"
-/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 
