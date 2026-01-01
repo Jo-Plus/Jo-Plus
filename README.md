@@ -4,21 +4,11 @@
 
 ### 
 
-<table border="0">
-  <tr>
-    <td width="30%" align="center" valign="center">
-      <img src="./avater.svg" alt="Avatar" width="180" style="border-radius: 50%; box-shadow: 0px 5px 15px rgba(0,0,0,0.1);" />
-    </td>
-    <td width="70%" valign="center">
-      <h1>Hi there, I'm Youssef Saeed! 👋</h1>
-      <p>
-        🚀 Full Stack Developer | 🇪🇬 Based in Egypt<br>
-        💡 I love building cool stuff with Node.js & React.<br>
-        📫 Reach me at: your.email@example.com
-      </p>
-      </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="./avater.svg" alt="Avatar" height="220" style="border-radius: 20%; box-shadow: 0 0 25px 5px rgba(100, 149, 237, 0.6);" />
+    <br>
+    <h3>✨ Youssef Saeed ✨</h3>
+</div>
 
 
 ### 
