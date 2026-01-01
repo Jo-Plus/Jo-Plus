@@ -5,48 +5,8 @@
 ### 
 
 <div align="center">
-
-  <img src="./avater.svg" alt="Avatar" width="200" style="border-radius: 50%; border: 4px solid #0ea5e9;" />
-  
-  <h1>Hi 👋, I'm Youssef Saeed</h1>
-  <h3>Professional Full-Stack Developer</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </p>
-
-  ---
-
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=youssefsaeed&show_icons=true&theme=tokyonight&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
-      </td>
-      <td>
-        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=youssefsaeed&layout=compact&theme=tokyonight&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
-      </td>
-    </tr>
-  </table>
-
-  ---
-
-  <p align="left">
-    🚀 <b>About Me:</b><br>
-    Experienced Full-Stack Developer building scalable applications using Node.js, Express, NestJS, React, Next.js, MongoDB, and PostgreSQL. I'm passionate about clean code and modern system design.
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=react&logoColor=white" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
-
+<img src="./avater.svg" height="220" alt="Avatar" />
 </div>
-
 
 ### 
 
