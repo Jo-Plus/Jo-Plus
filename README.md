@@ -5,9 +5,7 @@
 ### 
 
 <div align="center">
-    <img src="./avater.svg" alt="Avatar" height="220" style="border-radius: 20%; box-shadow: 0 0 25px 5px rgba(100, 149, 237, 0.6);" />
-    <br>
-    <h3>✨ Youssef Saeed ✨</h3>
+  <img src="./avater.svg" alt="Avatar" width="220" height="220" style="border-radius: 50%; box-shadow: 0px 10px 20px rgba(0,0,0,0.15); border: 4px solid #ffffff;" />
 </div>
 
 
