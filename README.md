@@ -8,6 +8,23 @@
 <img src="./avater.svg" height="220" alt="Avatar" />
 </div>
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=Jo-Plus&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      </td>
+      <td>
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Jo-Plus&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyalamir&theme=tokyonight&fire=fbbf24&ring=fbbf24&stroke=fbbf24&background=0d1117&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
 ### 
 
 <p align="center" style="margin: 0;">
