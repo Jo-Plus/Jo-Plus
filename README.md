@@ -17,10 +17,6 @@
   </table>
 </div>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyalamir&theme=tokyonight&fire=fbbf24&ring=fbbf24&stroke=fbbf24&background=0d1117&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
 ### 
 
 <p align="center" style="margin: 0;">
