@@ -5,10 +5,6 @@
 ### 
 
 <div align="center">
-<img src="./avater.svg" height="220" alt="Avatar" />
-</div>
-
-<div align="center">
   <table border="0">
     <tr>
       <td>
