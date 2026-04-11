@@ -1,4 +1,61 @@
 <h2 align="center">Hi 👋! My name is Yousef Saeed</h2>
+<div align="center">
+  <svg width="850" height="250" viewBox="0 0 850 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .fade-in { animation: fadeIn 2s ease-in-out forwards; }
+      .typing { 
+        overflow: hidden;
+        white-space: nowrap;
+        border-right: 2px solid;
+        width: 0;
+        animation: typing 3.5s steps(40, end) forwards, blink 0.75s step-end infinite;
+        animation-delay: 1s;
+      }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes typing { from { width: 0; } to { width: 100%; } }
+      @keyframes blink { from, to { border-color: transparent; } 50% { border-color: white; } }
+      
+      .profile-circle { animation: float 3s ease-in-out infinite; }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+    </style>
+
+    <rect width="850" height="250" rx="15" fill="#0d1117"/>
+    <rect width="850" height="250" rx="15" fill="url(#paint0_linear)" fill-opacity="0.2"/>
+    
+    <g class="profile-circle">
+      <defs>
+        <clipPath id="circleView">
+          <circle cx="150" cy="125" r="70" />
+        </clipPath>
+      </defs>
+      <image clip-path="url(#circleView)" x="80" y="55" width="140" height="140" href="output/Me.png" />
+      <circle cx="150" cy="125" r="72" stroke="#30363d" stroke-width="2"/>
+    </g>
+
+    <g class="fade-in" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <text x="280" y="110" fill="#ffffff" font-size="28" font-weight="bold">Youssef Saeed</text>
+      
+      <foreignObject x="280" y="125" width="500" height="50">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="color: #8b949e; font-size: 18px;">
+          <div class="typing">Full Stack Developer | React, Next.js & Node.js</div>
+        </div>
+      </foreignObject>
+
+      <text x="280" y="180" fill="#58a6ff" font-size="14">📧 email@example.com</text>
+      <text x="450" y="180" fill="#58a6ff" font-size="14">📱 +20 123 456 7890</text>
+    </g>
+
+    <defs>
+      <linearGradient id="paint0_linear" x1="0" y1="0" x2="850" y2="250" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#58a6ff"/>
+        <stop offset="1" stop-color="#bc85ff"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
 
 <h3 align="center">Full-Stack (MERN) Developer | React & Next.js | Backend: Node.js (Express & Nest.js) | DB: MongoDB & PostgreSQL</h3>
 
