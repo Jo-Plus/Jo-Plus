@@ -36,8 +36,8 @@
   <g class="fade-in" style="font-family: 'Segoe UI', Tahoma, sans-serif;">
     <text x="280" y="100" fill="#fbbf24" font-size="28" font-weight="bold">Youssef Saeed</text>
     <foreignObject x="280" y="115" width="550" height="50">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="color: #ffffff; font-size: 18px; font-weight: 500;">
-        <div class="typing">Full Stack Developer | React, Next.js &amp; Node.js</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" style="color: #ffffff; font-size: 18px;">
+        <div class="typing">Full Stack (MERN) Developer | Next.js &amp; Nest.js</div>
       </div>
     </foreignObject>
     <text x="280" y="185" fill="#8b949e" font-size="14">📧 saeedyoussef219@gmail.com</text>
