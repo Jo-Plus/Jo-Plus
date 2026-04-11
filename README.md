@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Yousef Saeed</h2>
 
 <p align="center">
-  <img src="banner.svg" alt="Yousef's Banner" width="850">
+  <img src="output/banner.svg" alt="Yousef's Banner" width="850">
 </p>
 
 <h3 align="center">Full-Stack (MERN) Developer | React & Next.js | Backend: Node.js (Express & Nest.js) | DB: MongoDB & PostgreSQL</h3>
