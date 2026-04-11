@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="850" height="250" viewBox="0 0 850 250" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .fade-in { animation: fadeIn 2s ease-in-out forwards; }
@@ -28,7 +29,7 @@
         <circle cx="150" cy="125" r="70" />
       </clipPath>
     </defs>
-    <image clip-path="url(#circleView)" x="80" y="55" width="140" height="140" href="https://raw.githubusercontent.com/Jo-Plus/Jo-Plus/main/output/Me.png" />
+    <image clip-path="url(#circleView)" x="80" y="55" width="140" height="140" href="https://raw.githubusercontent.com/Jo-Plus/Jo-Plus/main/output/Me.png?v=1" />
     <circle cx="150" cy="125" r="72" stroke="#fbbf24" stroke-width="2.5"/>
   </g>
 
