@@ -36,77 +36,75 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,githubactions,npm,pnpm&perline=15" />
 </div>
 
-<h2 align="left">🚀 Featured Projects:</h2>
-
----
-
-
-
-<h2 align="left">🚀 Featured Deployments:</h2>
+<h2 align="left">🚀 Project Hub & Live Showcase:</h2>
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="left" style="border: 1px solid #fbbf24; border-radius: 10px; padding: 15px; background-color: #0d1117; height: 220px;">
+      <div align="left" style="border: 2px solid #fbbf24; border-radius: 12px; padding: 20px; background-color: #0d1117; box-shadow: 0 0 10px #fbbf24; margin-bottom: 20px;">
         <img src="https://img.shields.io/badge/Forever_App-fbbf24?style=for-the-badge&logo=react&logoColor=black" />
-        <p style="color: #ffffff; font-size: 13px; margin-top: 10px;">
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
           Full-stack app with Stripe Payments, CRUD, and Auth.
         </p>
-        <div style="margin-top: 5px;">
+        <div style="margin-top: 10px;">
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         </div>
-        <br />
-        <a href="https://github.com/Jo-Plus/Forever" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
-        <a href="https://forever-front-eosin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-fbbf24?style=flat-square&logo=vercel&logoColor=black" /></a>
+        <div style="margin-top: 20px; text-align: center;">
+          <a href="https://github.com/Jo-Plus/Forever" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
+          <a href="https://forever-front-eosin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-fbbf24?style=flat-square&logo=vercel&logoColor=black" /></a>
+        </div>
       </div>
     </td>
     <td width="50%" valign="top">
-      <div align="left" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117; height: 220px;">
+      <div align="left" style="border: 2px solid #fbbf24; border-radius: 12px; padding: 20px; background-color: #0d1117; box-shadow: 0 0 10px #fbbf24; margin-bottom: 20px;">
         <img src="https://img.shields.io/badge/E--commerce_App-fbbf24?style=for-the-badge&logo=shopify&logoColor=black" />
-        <p style="color: #ffffff; font-size: 13px; margin-top: 10px;">
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
           Frontend-focused e-com with shopping cart and API integration.
         </p>
-        <div style="margin-top: 5px;">
+        <div style="margin-top: 10px;">
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
         </div>
-        <br />
-        <a href="https://github.com/Jo-Plus/Ecommerce-App" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
-        <a href="https://ecommerce-app-1e793.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-fbbf24?style=flat-square&logo=firebase&logoColor=black" /></a>
+        <div style="margin-top: 20px; text-align: center;">
+          <a href="https://github.com/Jo-Plus/Ecommerce-App" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
+          <a href="https://ecommerce-app-1e793.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-fbbf24?style=flat-square&logo=firebase&logoColor=black" /></a>
+        </div>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="left" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117; height: 220px;">
+      <div align="left" style="border: 2px solid #fbbf24; border-radius: 12px; padding: 20px; background-color: #0d1117; box-shadow: 0 0 10px #fbbf24; margin-bottom: 20px;">
         <img src="https://img.shields.io/badge/Bazar--API-fbbf24?style=for-the-badge&logo=nestjs&logoColor=black" />
-        <p style="color: #ffffff; font-size: 13px; margin-top: 10px;">
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
           NestJS & PostgreSQL backend with clean REST architecture and roles.
         </p>
-        <div style="margin-top: 5px;">
+        <div style="margin-top: 10px;">
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         </div>
-        <br />
-        <a href="https://github.com/Jo-Plus/Bazar-API" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
-        <a href="https://bazar-api-tan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/API_Demo-fbbf24?style=flat-square&logo=vercel&logoColor=black" /></a>
+        <div style="margin-top: 20px; text-align: center;">
+          <a href="https://github.com/Jo-Plus/Bazar-API" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
+          <a href="https://bazar-api-tan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/API_Demo-fbbf24?style=flat-square&logo=vercel&logoColor=black" /></a>
+        </div>
       </div>
     </td>
     <td width="50%" valign="top">
-      <div align="left" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117; height: 220px;">
+      <div align="left" style="border: 2px solid #fbbf24; border-radius: 12px; padding: 20px; background-color: #0d1117; box-shadow: 0 0 10px #fbbf24; margin-bottom: 20px;">
         <img src="https://img.shields.io/badge/Book--Store-fbbf24?style=for-the-badge&logo=node.js&logoColor=black" />
-        <p style="color: #ffffff; font-size: 13px; margin-top: 10px;">
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
           Node.js/Express backend for online bookstore with CRUD endpoints.
         </p>
-        <div style="margin-top: 5px;">
+        <div style="margin-top: 10px;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         </div>
-        <br />
-        <a href="https://github.com/Jo-Plus/Book-Store" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
-        <a href="https://book-store-beige-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-fbbf24?style=flat-square&logo=vercel&logoColor=black" /></a>
+        <div style="margin-top: 20px; text-align: center;">
+          <a href="https://github.com/Jo-Plus/Book-Store" target="_blank"><img src="https://img.shields.io/badge/Repository-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
+          <a href="https://book-store-beige-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-fbbf24?style=flat-square&logo=vercel&logoColor=black" /></a>
+        </div>
       </div>
     </td>
   </tr>
