@@ -65,13 +65,24 @@
 
 ### 🌐 Connect With Me
 
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
-  <a href="mailto:saeedyoussef219@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
-  <a href="http://facebook.com/youssef.aboyehia.1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" /></a>
-  <a href="https://t.me/yousefsaeed" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" /></a>
-  <a href="https://wa.me/201010283262" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /></a>
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+</a>
+<a href="mailto:saeedyoussef219@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+</a>
+<a href="http://facebook.com/youssef.aboyehia.1" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"/>
+</a>
+<a href="https://t.me/yousefsaeed" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram"/>
+</a>
+<a href="https://wa.me/201010283262" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp"/>
+</a>
+</p>
+
 <br />
 
 <div align="center">
