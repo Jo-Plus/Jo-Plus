@@ -36,19 +36,64 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,githubactions,npm,pnpm&perline=15" />
 </div>
 
----
+<h2 align="left">🚀 Featured Projects:</h2>
 
-### 🚀 Featured Projects
-
-| 🏆 Project Name | 📝 Description | 💻 Tech Stack |
-| :--- | :--- | :--- |
-| **[Taskify AI](#)** | Advanced task management app with robust backend logic, custom email verification templates, and secure authentication. | Node.js, Express, MongoDB, React |
-| **[Nestorria](#)** | Real estate platform featuring seamless image storage and fast deployments. | Next.js, Clerk Auth, Cloudinary, Vercel |
-| **[Forever](#)** | A comprehensive full-stack e-commerce application with secure payment processing. | Next.js, Tailwind CSS, MongoDB, Stripe |
-
-> **Note:** *Don't forget to replace the `#` in the table with the actual links to your repositories!*
-
----
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Taskify_AI-fbbf24?style=for-the-badge&logo=ai&logoColor=black" />
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
+          Advanced task management system with AI-driven logic, custom email templates, and high-security authentication.
+        </p>
+        <div style="margin-top: 10px;">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react&perline=10" height="25" />
+        </div>
+        <br />
+        <a href="https://github.com/Jo-Plus/Taskify-AI">
+          <img src="https://img.shields.io/badge/View_Repo-ffffff?style=flat-square&logo=github&logoColor=black" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Nestorria-fbbf24?style=for-the-badge&logo=homeadvisor&logoColor=black" />
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
+          Modern real estate platform featuring Clerk authentication and seamless image handling via Cloudinary.
+        </p>
+        <div style="margin-top: 10px;">
+          <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel&perline=10" height="25" />
+        </div>
+        <br />
+        <a href="https://github.com/Jo-Plus/Nestorria">
+          <img src="https://img.shields.io/badge/View_Repo-ffffff?style=flat-square&logo=github&logoColor=black" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117;">
+        <img src="https://img.shields.io/badge/Forever_E--com-fbbf24?style=for-the-badge&logo=stripe&logoColor=black" />
+        <p style="color: #ffffff; font-size: 14px; margin-top: 10px;">
+          Full-stack E-commerce solution integrated with Stripe for secure payments and complex state management.
+        </p>
+        <div style="margin-top: 10px;">
+          <img src="https://skillicons.dev/icons?i=nextjs,mongodb,stripe&perline=10" height="25" />
+        </div>
+        <br />
+        <a href="https://github.com/Jo-Plus/Forever">
+          <img src="https://img.shields.io/badge/View_Repo-ffffff?style=flat-square&logo=github&logoColor=black" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+        <div align="center" style="border: 1px dotted #30363d; border-radius: 10px; padding: 35px; background-color: #0d1117;">
+            <p style="color: #8b949e;">Working on something new... 🚀</p>
+        </div>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
