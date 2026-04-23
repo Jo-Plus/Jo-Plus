@@ -39,13 +39,13 @@
   <hr style="border: 1px solid #30363d;" />
 
   <h4>🌐 Connect With Me</h4>
-  <p>
-    <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/></a>&nbsp;
-    <a href="mailto:saeedyoussef219@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/></a>&nbsp;
-    <a href="http://facebook.com/youssef.aboyehia.1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"/></a>&nbsp;
-    <a href="https://t.me/yousefsaeed" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram"/></a>&nbsp;
-    <a href="https://wa.me/201010283262" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp"/></a>
-  </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="mailto:saeedyoussef219@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="http://facebook.com/youssef.aboyehia.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" /></a>
+  <a href="https://wa.me/201010283262"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>
+  <a href="https://t.me/yousefsaeed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /></a>
+</div>
 </div>
 
 ---
@@ -147,6 +147,21 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jo-Plus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=fbbf24" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jo-Plus&theme=tokyonight&hide_border=true&border_radius=10&stroke=fbbf24&ring=fbbf24&fire=fbbf24" height="190" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Plus&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=fbbf24" height="190" />
+</div>
+
+---
 
 <div align="center">
   <img src="./pacman.svg" alt="Snake animation" />
