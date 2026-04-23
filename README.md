@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fbbf24&height=220&section=header&text=Hello%20World!%20I'm%20Yousef%20Saeed&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=800&lines=Full-Stack+(MERN)+Developer;React+%26+Next.js+Enthusiast;Backend+with+Node.js+(Express+%26+Nest.js);Always+Building+%26+Learning+🚀" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</p>
 </div>
 
 ### 👨‍💻 About Me
@@ -59,27 +62,12 @@
 ### 🌐 Connect With Me
 
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:saeedyoussef219@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
-
-  <a href="http://facebook.com/youssef.aboyehia.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
-  </a>
-
-  <a href="https://t.me/yousefsaeed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
-  </a>
-
-  <a href="https://wa.me/201010283262" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
-  </a>
+  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:saeedyoussef219@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
+  <a href="http://facebook.com/youssef.aboyehia.1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" /></a>
+  <a href="https://t.me/yousefsaeed" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" /></a>
+  <a href="https://wa.me/201010283262" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /></a>
 </div>
-
 <br />
 
 <div align="center">
