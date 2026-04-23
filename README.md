@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fbbf24&height=220&section=header&text=Hello%20World!%20I'm%20Yousef%20Saeed&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
+  <div align="center" style="margin-top: 40px;">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80"
